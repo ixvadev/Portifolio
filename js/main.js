@@ -20,7 +20,7 @@ function loop() {
   scroll(loop);
 }
 
-// Call the loop for the first time
+// Call the loop for the first time 
 loop();
 
 // Helper function from: http://stackoverflow.com/a/7557433/274826

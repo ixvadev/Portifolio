@@ -58,5 +58,6 @@ headerBtn.addEventListener("click", scrollToForm);
 socialContact.addEventListener("click", scrollToForm);
 
 // No bots!
+
 const contactFormNoBots = document.getElementById("contact-form-no-bots");
 contactFormNoBots.parentNode.removeChild(contactFormNoBots)

@@ -44,6 +44,7 @@ function isElementInViewport(el) {
 }
 
 // Smooth scroll function
+
 const headerBtn = document.getElementById("header-btn");
 const socialContact = document.getElementById("social-contact");
 const contactForm = document.getElementById("contact");

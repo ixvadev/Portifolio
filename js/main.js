@@ -1,5 +1,6 @@
 // Scroll function from Donovan Hutchinson's Level Up Your CSS Animation Skills Udemy course
 // Detect request animation frame 
+
 const scroll =
   window.requestAnimationFrame ||
   // IE Fallback

@@ -1,10 +1,11 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+// import Navbar from './components/Navbar'
+import BlogList from './components/BlogList'
 
 function App() {
   return (
     <>
-        <Navbar/>
+        <BlogList/>
     </>
   )
 }
